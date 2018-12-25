@@ -19,7 +19,7 @@ h1 {font-family: Helvetica; font-size: 38; font-weight: bold;   }
 
 h2 {font-family: Helvetica; font-size: 38; font-weight: bold; font-style: italic;   }
 
-h3 {font-family: helvetica; font-size: 20; font-style: italic;  }
+h3 {font-family: helvetica; font-size: 20; font-weight: normal; font-style: italic;  }
 
 iframe {float: center; border: solid 1px black; margin: 25px; padding: 25px; width: 80%; }
 
